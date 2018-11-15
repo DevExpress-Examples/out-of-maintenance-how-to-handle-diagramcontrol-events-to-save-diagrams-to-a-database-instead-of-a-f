@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DiagramStorage.cs](./CS/DXDiagram.CustomDiagramStorage/DiagramStorage.cs) (VB: [DiagramStorageInitializer.vb](./VB/DXDiagram.CustomDiagramStorage/DiagramStorageInitializer.vb))
+* [DiagramStorageInitializer.cs](./CS/DXDiagram.CustomDiagramStorage/DiagramStorageInitializer.cs) (VB: [DiagramStorageInitializer.vb](./VB/DXDiagram.CustomDiagramStorage/DiagramStorageInitializer.vb))
+* [MainWindow.xaml](./CS/DXDiagram.CustomDiagramStorage/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DXDiagram.CustomDiagramStorage/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/DXDiagram.CustomDiagramStorage/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXDiagram.CustomDiagramStorage/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to handle DiagramControl events to save diagrams to a database instead of a file system
 
 
